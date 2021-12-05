@@ -1,5 +1,5 @@
 FROM php:7.4-fpm
-LABEL Maintainer="Jeff Simons Decena <jeff.decena@yahoo.com>" \
+LABEL Maintainer="Jessie Arevalo <dt.jessie7@gmail.com>" \
       Description="Minimal PHP 7.4 with FPM"
 
 # Install dependencies
